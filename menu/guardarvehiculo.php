@@ -83,13 +83,13 @@ if (mysqli_num_rows($resultadoConductor) == 0) {
               <div class="modal-content">
                 <div class="modal-header">
                   <h4 class="modal-title">Actualización</h4>
-                  <button class="close" onclick="location.href='menu.php'">&times;</button>
+                  <button class="close" onclick="location.href='../menu.php'">&times;</button>
                 </div>
                 <div class="modal-body">
                   Información actualizada con éxito
                 </div>
                 <div class="modal-footer">
-                  <button class="btn btn-danger" onclick="location.href='menu.php'">Cerrar</button>
+                  <button class="btn btn-danger" onclick="location.href='../menu.php'">Cerrar</button>
                 </div>
               </div>
             </div>

@@ -11,7 +11,7 @@
   <nav class="menu">
     <ul>
       <li><a href="menu.php">Inicio</a></li>
-      <li><a href="conductor.php">Registrarme</a></li>
+      <li><a href="menu/conductor.php">Registrarme</a></li>
       <li>
         <a href="#">Consultar</a>
         <ul class="submenu">
@@ -39,8 +39,8 @@
       <li>
         <a href="#">Informe</a>
         <ul class="submenu">
-          <li><a href="informe.php">Individual</a></li>
-          <li><a href="general.php">General</a></li>
+          <li><a href="menu/informe.php">Individual</a></li>
+          <li><a href="menu/general.php">General</a></li>
         </ul>
       </li>
     </ul>

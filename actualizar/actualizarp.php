@@ -24,7 +24,7 @@ body{
  <?php
 
 // Establecer la conexión a la base de datos
-require('../config.php');
+require('../menu/config.php');
 
 $cedula = $_POST['cedulaprop'];
 $primer_nombre = $_POST['primernombreprop'];

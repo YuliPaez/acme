@@ -24,7 +24,7 @@ body{
  <?php
 
 // Establecer la conexión a la base de datos
-require('../config.php');
+require('../menu/config.php');
 
 // Recibe los datos atravez del formulario utilizando el metodo POST
 $cedula = $_POST['cedulaconduc'];

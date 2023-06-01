@@ -1,5 +1,5 @@
 <?php
-require('C:\AppServ\www\acme\fpdf\fpdf.php');
+require('../fpdf/fpdf.php');
 date_default_timezone_set("America/Bogota");
 
 $pdf = new FPDF();

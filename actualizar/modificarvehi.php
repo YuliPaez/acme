@@ -37,7 +37,7 @@
 <body background="#A2D9CE">
 <?php
 // Establecer la conexión a la base de datos
-require('../config.php');
+require('../menu/config.php');
 
 // Guardar la variable consultada
 $searchInput = $_POST['id'];

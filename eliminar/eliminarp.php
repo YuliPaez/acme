@@ -21,7 +21,7 @@ body{
 </body>
 <?php
 // Establecer la conexión a la base de datos
-require('../config.php');
+require('../menu/config.php');
 
 //Guarda la variable consultada
 $cedula = $_POST['cedulaprop'];

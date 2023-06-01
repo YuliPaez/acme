@@ -20,7 +20,7 @@
 <body>
 <?php
 // Establecer la conexión a la base de datos
-require('../config.php');
+require('../menu/config.php');
 
 //Recibe los datos del formulario con método POST
 $placa = $_POST['placavehi'];
